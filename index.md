@@ -1,7 +1,6 @@
 ## About Me
 
-Why are you stalking me?
-
+I'm an accounting and finance student at Lehigh University with a passion for numbers, strategy, and problem-solving. When I’m not studying, you’ll find me on the ice playing hockey or coding up new projects — I love the challenge of combining analytical thinking with creativity both in and out of the classroom!
 I am an awesome student at Lehigh, you should hire me!
 
 <!-- Upload your own photo and change the path -->
